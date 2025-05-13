@@ -367,14 +367,14 @@
 </head>
 <body>
     <!-- En-tête -->
-    <header class="header">
+    <header>
         <div class="container">
             <div class="logo">
                 <!-- Option 1: Utiliser le texte comme solution de secours temporaire -->
-                Endo<span>Vitalité</span>
+                
                 
                 <!-- Option 2: Image commentée à décommenter quand l'image sera disponible
-                <img src="logo.png" alt="Logo EndoVitalité" class="logo-image">
+                <img src="logo.png" alt="Logo Kora" class="logo-image">
                 -->
             </div>
         </div>
@@ -393,7 +393,7 @@
     <!-- Section bénéfices -->
     <section class="benefits">
         <div class="container">
-            <h2 class="benefits-title">Comment EndoVitalité peut vous aider</h2>
+            <h2 class="benefits-title">Comment Kora peut vous aider</h2>
             <div class="benefits-container">
                 <div class="benefit-card">
                     <div class="benefit-icon">
@@ -424,7 +424,7 @@
     <section class="about">
         <div class="container">
             <h2>Notre engagement</h2>
-            <p>EndoVitalité est né d'une volonté de proposer une solution naturelle et complémentaire aux femmes touchées par l'endométriose. Nous avons travaillé avec des experts en nutrition et des spécialistes de l'endométriose pour créer un complément adapté à vos besoins spécifiques.</p>
+            <p>Kora est né d'une volonté de proposer une solution naturelle et complémentaire aux femmes touchées par l'endométriose. Nous avons travaillé avec des experts en nutrition et des spécialistes de l'endométriose pour créer un complément adapté à vos besoins spécifiques.</p>
             <p>Tous nos ingrédients sont rigoureusement sélectionnés, d'origine naturelle et notre formule est fabriquée en France, sans perturbateurs endocriniens.</p>
         </div>
     </section>
@@ -433,7 +433,7 @@
     <section class="cta-section">
         <div class="container">
             <h2>Soyez prévenue du lancement !</h2>
-            <p>EndoVitalité sera bientôt disponible. Laissez-nous votre email pour être parmi les premières informées et bénéficier d'une offre spéciale de lancement.</p>
+            <p>Kora sera bientôt disponible. Laissez-nous votre email pour être parmi les premières informées et bénéficier d'une offre spéciale de lancement.</p>
             <form class="cta-form" id="newsletter-form">
                 <input type="email" placeholder="Votre adresse email" required>
                 <button type="submit">Je veux être alertée !</button>
@@ -444,7 +444,7 @@
     <!-- Pied de page -->
     <footer class="footer">
         <div class="container">
-            <p>© 2025 EndoVitalité - Tous droits réservés</p>
+            <p>© 2025 Kora - Tous droits réservés</p>
             <p>Les compléments alimentaires ne remplacent pas un traitement médical. Consultez votre médecin.</p>
             <div class="social-links">
                 <a href="#"><i class="fab fa-instagram"></i></a>
