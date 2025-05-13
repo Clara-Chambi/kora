@@ -69,7 +69,7 @@
         }
         
         .logo {
-            position: relative;
+            position: center;
             z-index: 1;
         }
         
