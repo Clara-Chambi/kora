@@ -371,7 +371,7 @@
     <!-- En-tête -->
     <header class="header">
         <div class="container">
-            <div class="logo">Endo<span>Vitalité</span></div>
+            <div class="logo" img="logo.png">
         </div>
     </header>
 
