@@ -1,9 +1,9 @@
-
+![image](https://github.com/user-attachments/assets/8188dec1-2e1d-4fd1-be71-64e5cb56fc07)
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EndoVitalité - Complément alimentaire pour femmes atteintes d'endométriose</title>
+    <title>Kora - Complément alimentaire pour femmes atteintes d'endométriose</title>
     <style>
         /* Couleurs vives et joyeuses dans l'esprit du dopamine decor */
         :root {
@@ -388,7 +388,7 @@
     <!-- Section bénéfices -->
     <section class="benefits">
         <div class="container">
-            <h2 class="benefits-title">Comment EndoVitalité peut vous aider</h2>
+            <h2 class="benefits-title">Comment Kora peut vous aider</h2>
             <div class="benefits-container">
                 <div class="benefit-card">
                     <div class="benefit-icon">
