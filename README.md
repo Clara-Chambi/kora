@@ -369,7 +369,7 @@
 </head>
 <body>
     <!-- En-tête -->
-     <header class="header">
+     <header>
         <div class="container">
             <div class="logo">
                 <img src="logo.png" alt="Logo Kora" class="logo-image">
