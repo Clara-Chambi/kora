@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EndoVitalité - Complément alimentaire pour femmes atteintes d'endométriose</title>
+    <title>Kora - Complément alimentaire pour femmes atteintes d'endométriose</title>
     <style>
         /* Couleurs vives et joyeuses dans l'esprit du dopamine decor */
         :root {
