@@ -372,7 +372,7 @@
     <header class="header">
         <div class="container">
             <div class="logo">
-                <img src="logo.webp" alt="Logo Kora" class="logo-image">
+                <img src="logo.jpg" alt="Logo Kora" class="logo-image">
             </div>
         </div>
     </header>
