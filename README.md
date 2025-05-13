@@ -366,13 +366,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!-- Police Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-</head>
-<body>
-    <!-- En-tête -->
-     <header>
+ <header>
         <div class="container">
             <div class="logo">
+                <!-- Option 1: Utiliser le texte comme solution de secours temporaire -->
+               <span>Kora</span>
+                
+                <!-- Option 2: Image commentée à décommenter quand l'image sera disponible
                 <img src="logo.png" alt="Logo Kora" class="logo-image">
+                -->
             </div>
         </div>
     </header>
