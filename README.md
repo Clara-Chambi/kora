@@ -69,17 +69,14 @@
         }
         
         .logo {
-            font-size: 2.5rem;
-            font-weight: bold;
-            color: white;
             position: relative;
             z-index: 1;
         }
         
-        .logo span {
-            color: var(--accent);
+        .logo-image {
+            max-height: 80px;
+            max-width: 100%;
         }
-        
         .hero {
             padding: 100px 0;
             text-align: center;
