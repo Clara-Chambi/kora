@@ -370,10 +370,6 @@
     <header>
         <div class="container">
             <div class="logo">
-                <!-- Option 1: Utiliser le texte comme solution de secours temporaire -->
-                
-                
-                <!-- Option 2: Image commentée à décommenter quand l'image sera disponible
                 <img src="logo.png" alt="Logo Kora" class="logo-image">
                 -->
             </div>
