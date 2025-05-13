@@ -372,7 +372,7 @@
      <header class="header">
         <div class="container">
             <div class="logo">
-                <img src="votre-logo.png" alt="Logo EndoVitalité" class="logo-image">
+                <img src="logo.png" alt="Logo Kora" class="logo-image">
             </div>
         </div>
     </header>
