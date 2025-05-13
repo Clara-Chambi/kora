@@ -76,7 +76,7 @@
         }
 
         .logo-image {
-            max-height: 100px;
+            max-height: 200px;
             max-width: 100%;
         }
 
