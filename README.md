@@ -369,9 +369,11 @@
 </head>
 <body>
     <!-- En-tête -->
-    <header class="header">
+     <header class="header">
         <div class="container">
-            <div class="logo" img="logo.png">
+            <div class="logo">
+                <img src="votre-logo.png" alt="Logo EndoVitalité" class="logo-image">
+            </div>
         </div>
     </header>
 
